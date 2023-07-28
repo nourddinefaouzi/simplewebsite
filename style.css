@@ -1,0 +1,167 @@
+#div0{
+    position: relative;
+    width: 100%;
+    height: 1500px;
+    font-size: 110%;
+    line-height: 150%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#div1{
+    height: 200px;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+#div11{
+    position: absolute;
+    left: 2%;
+    top: 5%;
+}
+.logo{
+    width: 150px;
+    height: 175px;
+}
+.langimg{
+    width: 25px;
+    height: 25px;
+    padding-left: 0;
+}
+#div12{
+    position: absolute;
+    bottom: 10%;
+    right: 3%;
+}
+#div2{
+    position: absolute;
+    top: 200px;
+    height: 41px;
+    width: 100%;
+    background-color: rgb(200, 211, 223);
+}
+ul{
+    list-style: none;
+    display: inline;
+    height: 35px;
+}
+li{
+    display: inline;
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+    padding: 7px;
+    padding-right: 1%;
+    padding-left: 1%;
+    color: black;
+}
+a:hover{
+    background-color: gray;
+    color: white;
+    font-size: 125%;
+}
+#div3{
+    position: absolute;
+    width: 100%;
+    height: 800px;
+    top: 250px;
+}
+#div31{
+    position: absolute;
+    height: 30%;
+    width: 60%;
+    background-image: url(programmer.jpg);
+    background-repeat:round;
+    left: 1%;
+    top: 1%;
+}
+#div32{
+    position: absolute;
+    top: 35%;
+    height: 60%;
+    width: 60%;
+    left: 1%;
+    overflow:auto;
+}
+#div33{
+    position: absolute;
+    top: 3%;
+    height: 40%;
+    width: 35%;
+    right: 1%;
+    line-height: 35px;
+    background-color: lightblue;
+}
+#div34{
+    position: absolute;
+    top: 55%;
+    height: 40%;
+    width: 35%;
+    right: 1%;
+    line-height: 35px;
+    background-color: lightblue;
+}
+p{
+    padding: 3%;
+    text-align: justify;
+}
+.labeltitle{
+    font-size: 300%;
+}
+label{
+    display: inline-block;
+    padding-top: 5%;
+    line-height: 10px;
+    padding-left: 3%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#div4{
+    position: absolute;
+    top: 1100px;
+    height: 500px;
+    width: 100%;
+}
+#div41{
+    position: absolute;
+    width: 30%;
+    height: 80%;
+    left: 2.5%;
+    top: 25%;
+}
+#div42{
+    position: absolute;
+    width: 30%;
+    height: 80%;
+    left: 35%;
+    top: 25%;
+}
+#div43{
+    position: absolute;
+    width: 30%;
+    height: 80%;
+    left: 67.5%;
+    top: 25%;
+}
+.catalogue{
+    position: absolute;
+    width: 95%;
+    height: 40%;
+    top: 2.5%;
+    left: 2.5%;
+}
+.underimage{
+    position: absolute;
+    top: 42.5%;
+}
+.textimg{
+    position: absolute;
+    top: 50%;
+}
+#div5{
+    position: absolute;
+    left: 0;
+    top: 1600px;
+    height: 41px;
+    width: 100%;
+    background-color: rgb(200, 211, 223);
+}
